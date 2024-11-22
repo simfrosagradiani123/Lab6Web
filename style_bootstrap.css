@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+  }
+  .topTittle {
+    color: #7575;
+  }
+  .setBg {
+    background-color: #1f5faa;
+  }
+  .setNavActive {
+    background-color: #2b83ea;
+  }
+  .setNav:hover {
+    background-color: #2b83ea;
+  }
+  .firstConten {
+    background-color: #f5f5f5;
+    font-size: 16px;
+  }
